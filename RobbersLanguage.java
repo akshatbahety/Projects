@@ -1,4 +1,4 @@
-package practice;
+//This program is able to change the English language to a common language in sweden know as Robbers Language.
 
 import java.util.*;
 
